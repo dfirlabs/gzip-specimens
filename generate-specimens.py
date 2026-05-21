@@ -1,9 +1,5 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 """Script to generate GZIP file specimens."""
-
-from __future__ import print_function
-from __future__ import unicode_literals
 
 import argparse
 import gzip
